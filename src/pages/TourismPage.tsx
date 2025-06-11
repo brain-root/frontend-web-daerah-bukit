@@ -38,7 +38,7 @@ const TourismPage = () => {
       <section className="relative py-20 bg-gray-900 text-white">
         <div className="absolute inset-0 z-0">
           <img
-            src="../../public/bukittinggi1.jpg"
+            src="https://github.com/brain-root/frontend-web-daerah-bukit/blob/main/public/bukittinggi1.jpg?raw=true"
             alt="Wisata Bukittinggi"
             className="w-full h-full object-cover opacity-30"
           />

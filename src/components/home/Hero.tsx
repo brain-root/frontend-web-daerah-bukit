@@ -14,7 +14,7 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="../../../public/jamgadang.jpg"
+          src="https://github.com/brain-root/frontend-web-daerah-bukit/blob/main/public/jamgadang.jpg?raw=true"
           alt="Pemandangan Alam Bukittinggi"
           className="w-full h-full object-cover"
         />

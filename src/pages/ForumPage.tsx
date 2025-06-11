@@ -66,7 +66,7 @@ const ForumPage: React.FC = () => {
         <div className="absolute inset-0 z-0">
           {" "}
           <img
-            src="../../public/dis.jpeg"
+            src="https://github.com/brain-root/frontend-web-daerah-bukit/blob/main/public/dis.jpeg?raw=true"
             alt="Forum Diskusi Bukittinggi"
             className="w-full h-full object-cover opacity-30"
           />

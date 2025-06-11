@@ -46,7 +46,7 @@ const EventsPage = () => {
       <section className="relative py-20 bg-gray-900 text-white">
         <div className="absolute inset-0 z-0">
           <img
-            src="../../public/event.jpg"
+            src="https://github.com/brain-root/frontend-web-daerah-bukit/blob/main/public/event.jpg?raw=true"
             alt="Acara Solok Selatan"
             className="w-full h-full object-cover opacity-30"
           />

@@ -41,7 +41,7 @@ const BusinessDirectoryPage = () => {
       <section className="relative py-20 bg-gray-900 text-white">
         <div className="absolute inset-0 z-0">
           <img
-            src="../../public/umkm.jpg"
+            src="https://github.com/brain-root/frontend-web-daerah-bukit/blob/main/public/umkm.jpg?raw=true"
             alt="UMKM Bukittinggi"
             className="w-full h-full object-cover opacity-30"
           />
